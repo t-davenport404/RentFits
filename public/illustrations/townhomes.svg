@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 460" fill="none" role="img" aria-labelledby="title">
+  <title id="title">Illustration of a row of bright townhomes</title>
+  <defs><g id="window"><rect width="46" height="57" fill="#F0E4CB"/><rect x="5" y="5" width="36" height="47" fill="#768D83"/><path d="M23 5v47M5 28h36" stroke="#F0E4CB" stroke-width="3"/></g><pattern id="siding" width="15" height="13" patternUnits="userSpaceOnUse"><path d="M0 12.5h15" stroke="#E5C29F" stroke-width="1"/></pattern></defs>
+  <path fill="#DCE2D4" d="M0 0h720v460H0z"/><circle cx="598" cy="75" r="39" fill="#EEE8D2"/><path d="M0 291c69-23 102-11 167 10 90-51 164-49 232-24s126 31 182 2 108-5 139 10v171H0Z" fill="#BAC4A8"/>
+  <path d="M72 194h194v205H72z" fill="#D9B891"/><path d="M267 152h194v247H267z" fill="#E4CFAC"/><path d="M462 194h187v205H462z" fill="#B8C4AE"/>
+  <path d="M72 194h194v205H72zM267 152h194v247H267zM462 194h187v205H462z" fill="url(#siding)" opacity=".6"/>
+  <path d="m57 198 108-91 116 91Z" fill="#697367"/><path d="m252 156 108-90 116 90Z" fill="#697367"/><path d="m447 198 102-88 116 88Z" fill="#697367"/>
+  <path d="m84 193 81-68 87 68Z" fill="#D9B891"/><path d="m279 151 81-67 87 67Z" fill="#E4CFAC"/><path d="m474 193 75-65 87 65Z" fill="#B8C4AE"/>
+  <use href="#window" x="101" y="226"/><use href="#window" x="193" y="226"/><use href="#window" x="295" y="182"/><use href="#window" x="389" y="182"/><use href="#window" x="491" y="226"/><use href="#window" x="583" y="226"/>
+  <use href="#window" x="101" y="319"/><use href="#window" x="295" y="319"/><use href="#window" x="491" y="319"/>
+  <path d="M196 313h42v86h-42zM392 313h42v86h-42zM585 313h42v86h-42z" fill="#718172"/><path d="M204 322h26v33h-26zM400 322h26v33h-26zM593 322h26v33h-26z" fill="#AFBDA4"/>
+  <path d="M182 298h70v10h-70zM379 298h70v10h-70zM570 298h71v10h-71z" fill="#F0E3C9"/>
+  <path d="M0 400h720v60H0z" fill="#98A67F"/><path d="m195 400 43 0 7 60h-54Zm197 0h42l12 60h-61Zm192 0h45l18 60h-50Z" fill="#DDD2B5"/>
+  <path d="M63 397c-5-37 37-49 49-17 25-20 52-3 49 20H55ZM252 398c-7-24 15-44 35-22 26-27 54-6 54 24H246ZM448 398c-6-30 28-43 42-17 17-14 37-2 35 19H442Z" fill="#6D8668"/>
+  <path d="M681 247v153" stroke="#8B7A5F" stroke-width="10"/><circle cx="675" cy="226" r="55" fill="#8B9E78"/><circle cx="712" cy="256" r="34" fill="#8B9E78"/>
+</svg>

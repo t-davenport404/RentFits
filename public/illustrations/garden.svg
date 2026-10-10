@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 460" fill="none" role="img" aria-labelledby="title">
+  <title id="title">Illustration of garden apartments beneath green trees</title>
+  <defs><g id="window"><rect width="48" height="57" fill="#D7D0B8"/><rect x="4" y="4" width="40" height="49" fill="#57746F"/><path d="M24 4v49M4 29h40" stroke="#D7D0B8" stroke-width="3"/></g><pattern id="siding" width="20" height="13" patternUnits="userSpaceOnUse"><path d="M0 12.5h20" stroke="#BCC3A9" stroke-width="1"/></pattern></defs>
+  <path fill="#EAE5D4" d="M0 0h720v460H0z"/><path d="M0 229c119-25 162-33 252-8s181 2 272-10 142 5 196 29v220H0Z" fill="#B7C3A4"/>
+  <path d="M70 177h571v222H70z" fill="#CDD0B8"/><path d="M70 177h571v222H70z" fill="url(#siding)"/>
+  <path d="m53 180 63-66h474l68 66Z" fill="#6B776B"/><path d="m125 178 62-60 67 60Z" fill="#E0DBC5"/><path d="m478 178 58-60 65 60Z" fill="#E0DBC5"/>
+  <path d="M82 285h547v7H82z" fill="#E1DECC"/><use href="#window" x="111" y="204"/><use href="#window" x="194" y="204"/><use href="#window" x="283" y="204"/><use href="#window" x="387" y="204"/><use href="#window" x="483" y="204"/><use href="#window" x="567" y="204"/>
+  <use href="#window" x="111" y="316"/><use href="#window" x="194" y="316"/><use href="#window" x="483" y="316"/><use href="#window" x="567" y="316"/>
+  <path d="M288 315h43v85h-43zM387 315h44v85h-44z" fill="#6A7D72"/><path d="M298 327h23v33h-23zM397 327h24v33h-24z" fill="#A2B29E"/>
+  <path d="M263 299h191v10H263z" fill="#E8E0CA"/><path d="M271 309h8v92h-8zM438 309h8v92h-8z" fill="#E8E0CA"/>
+  <path d="M0 399h720v61H0z" fill="#99A580"/><path d="M276 400h167l-8 60H285Z" fill="#DACFB2"/>
+  <path d="M34 393c-6-25 16-37 31-25 1-32 37-38 45-11 19-25 45-10 42 20 34-9 45 9 41 22H27Z" fill="#6C866C"/><path d="M476 397c-7-28 22-42 41-27 18-38 58-23 60 5 27-22 53-5 50 24H471Z" fill="#718B6F"/>
+  <path d="M61 221v179" stroke="#877B62" stroke-width="12"/><path d="M61 292 30 263M62 259l37-43" stroke="#877B62" stroke-width="7"/><circle cx="56" cy="203" r="59" fill="#839976"/><circle cx="98" cy="224" r="39" fill="#839976"/><circle cx="17" cy="230" r="45" fill="#839976"/>
+  <path d="M660 250v150" stroke="#877B62" stroke-width="11"/><circle cx="658" cy="222" r="58" fill="#8DA17B"/><circle cx="704" cy="256" r="40" fill="#8DA17B"/><circle cx="628" cy="257" r="36" fill="#8DA17B"/>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 460" fill="none" role="img" aria-labelledby="title">
+  <title id="title">Illustration of a warm brick apartment building</title>
+  <defs><pattern id="masonry" width="56" height="26" patternUnits="userSpaceOnUse"><path d="M0 25.5h56M28 0v26" stroke="#B47D60" stroke-width="1"/></pattern><g id="window"><rect width="48" height="68" fill="#ECD6B6"/><rect x="5" y="5" width="38" height="58" fill="#6D8179"/><path d="M24 5v58M5 32h38" stroke="#E8D5B8" stroke-width="3"/><path d="M-4 68h56v7H-4z" fill="#E6CCAA"/></g></defs>
+  <path fill="#DBE1D3" d="M0 0h720v460H0z"/>
+  <path d="M0 165c83-31 113-7 156 4s106 8 164-10 123-5 191 12 137 8 209-20v309H0Z" fill="#C5CEB6"/>
+  <path d="M97 120h530v280H97z" fill="#BD896D"/><path d="M97 120h530v280H97z" fill="url(#masonry)"/>
+  <path d="M83 105h558v18H83z" fill="#6E7162"/><path d="M97 131h530v8H97z" fill="#D9B18C"/>
+  <path d="M323 120h76v280h-76z" fill="#D9BA94"/><path d="M336 329c0-42 50-42 50 0v71h-50Z" fill="#65796D"/><path d="M341 328c0-33 40-33 40 0v30h-40Z" fill="#9CAB99"/>
+  <use href="#window" x="131" y="158"/><use href="#window" x="227" y="158"/><use href="#window" x="448" y="158"/><use href="#window" x="544" y="158"/><use href="#window" x="131" y="288"/><use href="#window" x="227" y="288"/><use href="#window" x="448" y="288"/><use href="#window" x="544" y="288"/>
+  <path d="M351 157h20v65h-20z" fill="#72857A"/><path d="M351 245h20v36h-20z" fill="#72857A"/>
+  <path d="M96 267h227M399 267h228" stroke="#D7B291" stroke-width="7"/>
+  <path d="M0 401h720v59H0z" fill="#9DA785"/><path d="M336 400h51l35 60H301Z" fill="#DFD4B9"/>
+  <path d="M17 366c-3-28 27-50 51-33 25-23 55-1 51 31 25-14 47 4 44 36H11Z" fill="#76896C"/><path d="M566 378c8-23 31-28 47-16 26-27 63-3 55 21 23-10 44 4 47 18H558Z" fill="#788B70"/>
+  <path d="M33 225v166" stroke="#88775D" stroke-width="10"/><circle cx="28" cy="213" r="49" fill="#91A184"/><circle cx="64" cy="229" r="29" fill="#91A184"/>
+  <path d="M678 260v135" stroke="#88775D" stroke-width="9"/><circle cx="680" cy="238" r="48" fill="#8B9E7D"/><circle cx="646" cy="261" r="29" fill="#8B9E7D"/>
+</svg>

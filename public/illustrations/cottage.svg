@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 460" fill="none" role="img" aria-labelledby="title">
+  <title id="title">Illustration of a small cottage with a front porch</title>
+  <defs><pattern id="siding" width="20" height="14" patternUnits="userSpaceOnUse"><path d="M0 13.5h20" stroke="#D2C7A9" stroke-width="1"/></pattern><g id="window"><rect width="58" height="67" fill="#EBDEC1"/><rect x="6" y="6" width="46" height="55" fill="#6B857A"/><path d="M29 6v55M6 33h46" stroke="#EBDEC1" stroke-width="3"/><path d="M-10 0h8v67h-8zM60 0h8v67h-8z" fill="#9EAC91"/></g></defs>
+  <path fill="#E5E6D3" d="M0 0h720v460H0z"/><circle cx="553" cy="86" r="36" fill="#F5EBD1"/><path d="M0 273c80-15 142-6 207 8s154-4 239-16 181 0 274 13v182H0Z" fill="#BCC4A4"/>
+  <path d="M156 222h407v173H156z" fill="#DDD5B9"/><path d="M156 222h407v173H156z" fill="url(#siding)"/><path d="M462 141h34v84h-34z" fill="#B79579"/>
+  <path d="m130 228 231-132 227 132Z" fill="#6F7869"/><path d="m175 213 186-107 182 107Z" fill="#737D6C"/>
+  <path d="m279 218 81-74 82 74Z" fill="#E5DDC1"/><path d="M346 169h29v43h-29z" fill="#7A9082"/><path d="M360 169v43M346 189h29" stroke="#E7DCC0" stroke-width="3"/>
+  <use href="#window" x="205" y="263"/><use href="#window" x="458" y="263"/>
+  <path d="M332 265h57v130h-57z" fill="#7A8C77"/><path d="M341 275h39v49h-39z" fill="#AFBA9E"/><circle cx="379" cy="345" r="3" fill="#E9D7A9"/>
+  <path d="M280 251h163v12H280zM290 263h10v129h-10zM424 263h10v129h-10z" fill="#EBDEC2"/><path d="M292 377h138v19H292z" fill="#BAAD8E"/><path d="M319 396h83v13h-83zM310 409h102v12H310z" fill="#CBBFA0"/>
+  <path d="M0 399h720v61H0z" fill="#9DA980"/><path d="M319 399h83v12h-83zM310 411h102v12H310z" fill="#CBBFA0"/><path d="m311 422 100 0 18 38H290Z" fill="#DDD1B2"/>
+  <path d="M169 395c-11-37 19-49 40-23 5-43 49-46 59-8 27-18 52 7 43 34H160Z" fill="#708A68"/><path d="M435 398c-8-26 18-44 40-23 14-31 51-14 50 10 33-19 60 2 50 14H430Z" fill="#738A68"/>
+  <path d="M90 261v147" stroke="#8A7B5E" stroke-width="12"/><path d="m90 306-27-30m26 1 36-31" stroke="#8A7B5E" stroke-width="6"/><circle cx="85" cy="225" r="69" fill="#91A07A"/><circle cx="132" cy="260" r="38" fill="#91A07A"/><circle cx="44" cy="268" r="41" fill="#91A07A"/>
+  <path d="M633 282v119" stroke="#8A7B5E" stroke-width="10"/><circle cx="632" cy="249" r="61" fill="#8B9E76"/><circle cx="675" cy="280" r="34" fill="#8B9E76"/>
+  <path d="M0 440c100-7 175 7 243-4M453 441c95-8 174-11 267-1" stroke="#BAC09B" stroke-width="3"/>
+</svg>
